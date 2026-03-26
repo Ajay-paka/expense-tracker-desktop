@@ -4,7 +4,7 @@ Expense Tracker Desktop is a professional desktop-based personal finance applica
 It helps users securely manage expenses, analyze spending patterns, and generate visual financial insights through an interactive desktop interface.
 
 ## 📸 Application Preview
-![Expense Tracker(ET)](ETmain.png)
+![Expense Tracker(ET)](ETmain.PNG)
 
 ## 🚀 Features
 
